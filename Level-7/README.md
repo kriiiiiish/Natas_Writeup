@@ -1,4 +1,4 @@
-Here u are welcomed with two buttons (home,about), so we click on them and see what changes. 
+Here we are welcomed with two buttons (home,about), so we click on them and see what changes. 
 
 If we look at the part of the url which is "index.php?page=about" which gives a possibility that there maybe a page other than home and about where the password may be stored.
 
