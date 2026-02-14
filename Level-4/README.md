@@ -1,4 +1,4 @@
- Access disallowed. You are visiting from "http://natas4.natas.labs.overthewire.org/" while authorized users should come only from "http://natas5.natas.labs.overthewire.org/" 
+ !!! Access disallowed. You are visiting from "http://natas4.natas.labs.overthewire.org/" while authorized users should come only from "http://natas5.natas.labs.overthewire.org/" !!!
 
  In this level the webpage accepts users from natas5 only but we are accessing it from natas4 so we cant see the pass.
 
