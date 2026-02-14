@@ -7,7 +7,6 @@ Tools Used :
 3. Cyberchef
    https://gchq.github.io/CyberChef/
 
-Note: This is not the most optimal way of solving the problems, this is only my methodology
 
 
 
